@@ -33,4 +33,4 @@ streamlit run app.py
 > Built a Streamlit-based AI Resume Analyzer leveraging NLP keyword overlap, skills coverage, and GPT-generated recommendations; delivered interactive alignment scoring and optimization tips for targeted job applications.
 
 ---
-Maintainer: Kristal Makhija
+Maintainer: Kristal Makhija 
